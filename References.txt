@@ -1,0 +1,14 @@
+References:
+Brownlee, J. (August 20, 2020). Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras. Retrived from https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+
+Drakos, G. (May 23, 2019). Decision Tree Regressor explained in depth. Retrieved from https://gdcoder.com/decision-tree-regressor-explained-in-depth/
+
+Hayes, A. (Mar 26, 2020). Simple Moving Average (SMA). Retreived from https://www.investopedia.com/terms/s/sma.asp  
+
+Kenton, W. (Feb 6, 2020). Black Scholes Model. Retrieved from https://www.investopedia.com/terms/b/blackscholes.asp 
+
+Kenton, W. (May 17, 2020). Merton Model Defintion. Retrived from https://www.investopedia.com/terms/m/mertonmodel.asp 
+
+Kuepper, J. (Aug 11,2020). Day Trading: An Introduction. Retrieved from https://www.investopedia.com/articles/trading/05/011705.asp
+
+(n.d.) Retrived from https://finnhub.io/docs/api#company-news
